@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Parsa4I/Parsa4I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-:)
+Hey! 👋 I'm **Parsa**, a **passionate developer** and **computer engineering student**. 😎🚀 I'm always on a mission to **learn new things**. 🔥 When I'm not coding like a boss, you can catch me **gaming** 🎮, watching **movies** 🍿, or just geeking out over some random tech stuff.
 
 
 ## 🌐 Socials:
